@@ -14,8 +14,6 @@
     <br />
     <a href="https://discord.gg/hKNW6wvyg3">🌌 Discord</a>
     ·
-    <a href="https://discord.gg/hKNW6wvyg3">📜 ChangeLog</a>
-    ·
     <a href="https://discord.gg/hKNW6wvyg3">⚠️ Report Bug</a>
     ·
 
