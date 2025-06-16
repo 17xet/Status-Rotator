@@ -27,7 +27,7 @@
 
 ### ⚙️ Setup
 + `pip install requirements` the needed modules
-+ `colorama & requests`
++ `pystyle & requests`
 
 
 ---------------------------------------
