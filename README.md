@@ -5,6 +5,9 @@
     <img src="![image](https://github.com/user-attachments/assets/f6f6659f-de53-4478-bd3a-0f8724ac1fc7)
 " alt="Logo" width="" height="">
   </a>
+
+![Screenshot 2025-06-16 165848](https://github.com/user-attachments/assets/9638ebaf-c09c-456d-abf1-aef1fb0e88eb)
+
   
   <h2 align="center">Discord - Status Cycler</h3>
 
