@@ -1,21 +1,22 @@
 <div id="top"></div>
 <br/>
 <div align="center">
-  <a href="https://github.com/CxrveWTF">
-    <img src="https://cdn.discordapp.com/attachments/1226401326624280648/1230297980075249686/download.png?ex=6632cf48&is=66205a48&hm=37229ff6ce9f07961fd7f90d73ed1f3721aae988a927d6c839591b3ecc63b76a&" alt="Logo" width="" height="">
+  <a href="https://github.com/17xet">
+    <img src="![image](https://github.com/user-attachments/assets/f6f6659f-de53-4478-bd3a-0f8724ac1fc7)
+" alt="Logo" width="" height="">
   </a>
   
   <h2 align="center">Discord - Status Cycler</h3>
 
   <p align="center">
-    A discord auto status changer. ( obv created by cxrve <3 )
+    A discord auto status changer. ( obv created by 17xet <3 )
     <br />
     <br />
-    <a href="https://discord.gg/2G2tdf65kx">🌌 Discord</a>
+    <a href="https://discord.gg/hKNW6wvyg3">🌌 Discord</a>
     ·
-    <a href="https://discord.gg/2G2tdf65kx">📜 ChangeLog</a>
+    <a href="https://discord.gg/hKNW6wvyg3">📜 ChangeLog</a>
     ·
-    <a href="https://discord.gg/2G2tdf65kx">⚠️ Report Bug</a>
+    <a href="https://discord.gg/hKNW6wvyg3">⚠️ Report Bug</a>
     ·
 
   </p>
@@ -39,13 +40,4 @@
 ### ❗ Disclaimers
 - I am not responsible for anything that may happen, such as, API Blocking, Account Termination, etc.
 - This may slow down your wifi and/or host computer
-- This was a quick project that I did for fun, so if you want me to update it in the future, star the repo & create an "issue" [here](https://discord.gg/2G2tdf65kx)
-
----------------------------------------
-
-### 📜 ChangeLog
-
-```diff
-v0.0.1 ⋮ 4/17/2024
-+ Added Custom Emoji Support
-```
+- This was a quick project that I did for fun, so if you want me to update it in the future, star the repo & create an "issue" [here](https://discord.gg/hKNW6wvyg3)
